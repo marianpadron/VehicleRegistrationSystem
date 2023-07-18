@@ -1,6 +1,6 @@
 ## Vehicle Registration System
 
-A **JAVA** vehicle registration system that maintains a log of different vehicle registrations. 
+A **JAVA** vehicle registration system that maintains a log of indivdual vehicle registrations. 
 Each registration represents a different vehicle and all its attributes, as well as its owner and owner’s information, and the vehicle’s jurisdiction information. 
 The registration system was designed using **SOLID** design practices and was delivered as part of an **OBJECT-ORIENTED DESIGN** class. 
 It utilizes proper encapsulation practices such as a **singleton class** to represent the registration system and establishes class protocols through 
