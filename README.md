@@ -15,4 +15,4 @@ System tests were ran using **JUNIT** following a specific rubric. Tests can be 
 - [Red](/src/registration/RedJurisdiction.java)/[Blue](/src/registration/BlueJurisdiction.java)/[Green](/src/registration/GreenJurisdiction.java) Jurisdiction: Classes that represent different vehicle jurisdiction and use **dynamic dispatch** to return specific tax information per jurisdiction.
 - [Person](/src/registration/Person.java): Class that represents a person and their personal information for the vehicle registration.
 
-All other files are interfaces, enums, or abstract classes utilized or extended by the concrete classes mentioned above.
+All other files are interfaces, enums, or abstract classes utilized or extended by the concrete classes mentioned above. 
